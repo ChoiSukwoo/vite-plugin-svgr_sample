@@ -1,5 +1,5 @@
 
-#Vite로 생성된 프로젝트에서 vite-plugin-svgr 을 이용하여 SVG를 가져오는 셋팅 샘플
+# Vite로 생성된 프로젝트에서 vite-plugin-svgr 을 이용하여 SVG를 가져오는 셋팅 샘플
 
 ### 관련 링크
 
