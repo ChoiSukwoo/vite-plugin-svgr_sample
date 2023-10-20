@@ -15,8 +15,6 @@
 - CRA로 만든 프로젝트와 다르게 svg 를 ReactComponet로 호출하는데 문제가 있어 문서로 남긴다.
 - 구글링 결과로 찾은 방식을 적용하더라도 빌드시 아래와 같은 오류가 발생한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c657c363-a545-46af-be0b-552597cbc785/9d345faf-6bc8-4207-9ae6-aa99b93c24be/Untitled.png)
-
 ### 적용방법
 
 ---
